@@ -1,4 +1,4 @@
-cylinder folder :クランク軸のpython program
+crankshaft folder :クランク軸のpython program
 
 beamMotion folder :弾性梁のpython program
 
